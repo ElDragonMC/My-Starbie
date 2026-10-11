@@ -17,4 +17,9 @@ Back:
 - Add some AAA bateries to power the ESP32 but i would be over budget
 - Put more options on the menu but i don't know how to code on arduino and the week is over
 - With the ESP32, connect it to a phone through bluetooth so i can get some notifications like feed me or something else but as i said i don't know how to do it
-- Put a speaker but it would be over budget
+- Put a speaker but it would be over budget and also i don't know how to program on arduino
+
+
+# Update!!
+
+I could reduce the PCB price with a coupon so i could put some batteries but i don't have enough time
