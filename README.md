@@ -1,7 +1,7 @@
 # My-Starbie
 This is my version of the Hack Club starbie
 
-I liked this project becouse it implies a PCB (i like designing them, sometimes i design ramdom things to spend some time) but i don't know how to code on arduino so i did not costumize the code a lot.
+I liked this project becouse it implies a PCB (i like designing them, sometimes i design ramdom things to spend some time) but i don't know how to code on arduino so i did not costumize the code a lot (only the main character).
 
 # Some PCB Renders:
 
