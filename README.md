@@ -40,7 +40,7 @@ I waned to design a case for this project but i did not have that much time left
 1. First grab the PCB and verify if it's cleen and well-made.
 2. Grab the ESP32, the screen and the motion sensor and weld the headers. For the ESP32, two 7 pin header, for the motion sensor, a 8 pin header and the screen a 4 pin header.
 3. Weld the ESP32, the screen, the motion sensor, the DHT sensor, the resistance and the two switches to the PCB.
-4. Print and put the to keycaps.
+4. Print and put the to [keycaps](blob:https://github.com/bdf49ddc-6f3c-4b2d-b509-2924db6565ce).
 
 # How to upload the firmware
 
