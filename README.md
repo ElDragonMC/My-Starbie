@@ -4,7 +4,8 @@ This is my version of the Hack Club starbie
 I liked this project becouse it implies a PCB (i like designing them, sometimes i design ramdom things to spend some time) but i don't know how to code on arduino so i did not costumize the code a lot (only the main character).
 
 # PCB Schematic
-[Schematic.pdf](https://github.com/user-attachments/files/33302797/Schematic.pdf)
+<img width="2339" height="1654" alt="Schematic (3)-1" src="https://github.com/user-attachments/assets/ac5b4066-1ba1-473b-aca5-cab71a271812" />
+<img width="1241" height="848" alt="image" src="https://github.com/user-attachments/assets/62260c58-8fe6-4930-829a-4600b18b4878" />
 
 # Some PCB Renders:
 
