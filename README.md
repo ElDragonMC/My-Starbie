@@ -4,7 +4,7 @@ This is my version of the Hack Club starbie
 I liked and i wanted to make this project becouse it implies a PCB (i like designing them, sometimes i design ramdom things to spend some time) but i don't know how to code on arduino so i did not costumize the code a lot, only the main character). I loved to design and make this PCB, i've never thinked i could make a "tamagotchi" but i loved this.
 
 # PCB Schematic
-<img width="584.75" height="413.5" alt="Schematic (3)-1" src="https://github.com/user-attachments/assets/ac5b4066-1ba1-473b-aca5-cab71a271812" />
+<img width="1169.5" height="827" alt="Schematic (3)-1" src="https://github.com/user-attachments/assets/ac5b4066-1ba1-473b-aca5-cab71a271812" />
 <img width="620.5" height="424" alt="image" src="https://github.com/user-attachments/assets/62260c58-8fe6-4930-829a-4600b18b4878" />
 
 # Some PCB Renders:
@@ -29,13 +29,6 @@ Back:
 | **Parts subtotal** | — | — | — | **$22.27** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$22.27** | — |
-
-# Some ideas i had:
-
-- Add some AAA bateries to power the ESP32 but i would be over budget
-- Put more options on the menu but i don't know how to code on arduino and the week is over
-- With the ESP32, connect it to a phone through bluetooth so i can get some notifications like feed me or something else but as i said i don't know how to do it
-- Put a speaker but it would be over budget and also i don't know how to program on arduino
 
 # Desing Process
 
@@ -81,6 +74,13 @@ I waned to design a case for this project but i did not have that much time left
 | Button 1, second press | Chooses the highlighted action |
 | Button 2 | Shows or hides the stats screen |
 | Shake while seeing the pet | Gives Yoda its shake reaction |
+
+# Some ideas i had:
+
+- Add some AAA bateries to power the ESP32 but i would be over budget
+- Put more options on the menu but i don't know how to code on arduino and the week is over
+- With the ESP32, connect it to a phone through bluetooth so i can get some notifications like feed me or something else but as i said i don't know how to do it
+- Put a speaker but it would be over budget and also i don't know how to program on arduino
 
 # Update!!
 
