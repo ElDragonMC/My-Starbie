@@ -27,11 +27,11 @@
 
 ## Design
 
-### 2026-10-06 – I started to design the PCB for the Starbie project. It basicly needs some visual changes so it's more beautifull and it's not boring.
+### 2026-10-06 – I started to design the PCB for the Starbie project. And... it basicly needs some visual changes so it's more beautifull and it's not boring.
 
 **1.18h**
 
-I started to design the PCB for the Starbie project. It basicly needs some visual changes so it's more beautifull and it's not boring.
+I started to design the PCB for the Starbie project. It basicly needs some visual changes so it's more beautifull and it's not boring. I've already got some ideas that will be cool.
 
 I found a little bit difficult to configure correctly the GND plane but i finaly made it work.
 
@@ -43,7 +43,7 @@ I found a little bit difficult to configure correctly the GND plane but i finaly
 
 I've been working on the Cosmetic design for the PCB for the Starbie project and also i've been putting the 3D Models for the footprints so i can make some cool renders :D
 
-But i found out after changing some things that i have to update my graphics drivers to 3D render so i had to stop for a moment.
+But i found out after changing some things that i have to update my graphics drivers to 3D render so i had to stop for a moment. I don't know why, it suddently stopped working :(
 
 [Timelapse](https://lookout.hackclub.com/api/media/a34297af-8a09-4a97-b1cd-da78f1c98333/video.mp4)
 
@@ -51,7 +51,7 @@ But i found out after changing some things that i have to update my graphics dri
 
 **1h**
 
-Basicly, i finished the last Cosmetic changes and made some 3D renders. As i said before, i've encountred an issue that was more deep than installing some drivers. With some googleing i found a post on the KiCad forum with the solution.
+Basicly, i finished the last Cosmetic changes and made some 3D renders. As i said before, i've encountred an issue that was more deep than installing some drivers. With some googleing i found a post on the KiCad forum with the solution. I don't know why KiCad decided to use some 1995 OpenGL version and i had to install some old KiCad version and change some files to the newest version. That's a weird soluiton but it worked :D
 
 PCB Renders Here!!
 
@@ -67,7 +67,7 @@ Back
 
 **1.05h**
 
-I've created the main sprite for the project and also i've made the animation for the sprite so it's cooler. At first i could not decide what to do but finaly i decided to make a yoda. The most difficult part was getting the proportions well.
+I've created the main sprite for the project and also i've made the animation for the sprite so it's cooler. At first i could not decide what to do but finaly i decided to make a yoda. The most difficult part was getting the proportions well. I finaly decided to not use a animation beacouse i don't know how to link the main code to the animation file. I'm defenetly bad with arduino :(
 
 [Timelapse](https://lookout.hackclub.com/api/media/2361f93f-c737-431e-8fed-fdfd3e689dbf/video.mp4)
 
@@ -75,7 +75,7 @@ I've created the main sprite for the project and also i've made the animation fo
 
 **0.45h**
 
-I've been searching for the components to put on the BOM. The problem is that there is a lot of products to search so i've been a little bit longer that i wanted. Finaly i found all the products i needed inside the grant limitations.
+I've been searching for the components to put on the BOM. The problem is that there is a lot of products to choose from so i've been a little bit longer that i wanted. Finaly i found all the products i needed inside the grant limitations. I also changed some PCB configuration to try to lower the price.
 
 [Timelapse](https://lookout.hackclub.com/api/media/60e92120-c4f3-4793-a89e-b9eb468e9e12/video.mp4)
 
@@ -83,7 +83,7 @@ I've been searching for the components to put on the BOM. The problem is that th
 
 **0.52h**
 
-I've been making the production files for the PCB and also searching prices for fabrication. I could not find any price that could fit on the BOM limit. I tried to do more reasearch but google decided not to work and i could not continue. At this time, google is up again.
+I've been making the production files for the PCB and also searching prices for fabrication. I could not find any price that could fit on the BOM limit. I tried to do more reasearch but google decided not to work and i could not continue. At this time, google is up again. I think the problem was my internet provider, beacouse from my phone it worked fine. I defenetly have to change the internet provider.
 
 [Timelapse](https://lookout.hackclub.com/api/media/b4479ff3-b963-43d2-a1ed-a87ecd17c5fe/video.mp4)
 
@@ -91,7 +91,7 @@ I've been making the production files for the PCB and also searching prices for 
 
 **0.2h**
 
-I designed the main character. As you may see i already did that. The issue is that i made it as an animation and i could not get it to work so i had to design it again as a steady image.
+I designed the main character. As you may see i already did that. The issue is that i made it as an animation and i could not get it to work so i had to design it again as a steady image. I finaly have a good Yoda and i've implemented it to the code and i think it will work : )
 
 [Timelapse](https://lookout.hackclub.com/api/media/6e0c43c5-0547-41a3-a395-973605d3f034/video.mp4)
 
@@ -99,7 +99,7 @@ I designed the main character. As you may see i already did that. The issue is t
 
 **0.27h**
 
-Making some md for the github repo
+Making some md for the github repo. I find it so difficult to make. It's like designing with raw HTML, it's impossible to make it look good :(
 
 [Timelapse](https://lookout.hackclub.com/api/media/866c47d1-62b4-4467-b6d0-7e19dafe6fc1/video.mp4)
 
@@ -107,12 +107,6 @@ Making some md for the github repo
 
 **0.32h**
 
-I reduced the price of the project beacouse i had like 20 min left of work so i can submit the project and i tried to lower the price. And it worked!!
+I reduced the price of the project beacouse i had like 20 min left of work so i can submit the project and i tried to lower the price. And it worked!! Basicly i found that if you make a new account on JLCPCB, you can get a 10$ coupon for free :D
 
 [Timelapse](https://lookout.hackclub.com/api/media/d2f93ac5-a5c8-4001-a0f4-e7228cc53946/video.mp4)
-
-### 2026-10-25 – Work session
-
-**0.38h**
-
-[Timelapse](https://lookout.hackclub.com/api/media/a521e8a7-c5d5-40f3-bfff-80e03934c17d/video.mp4)
